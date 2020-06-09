@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+.active{
+  border-radius: .4rem;
+  background-color: blue;
+  padding: .3rem;
+  color: white;
+}
+.search{
+  padding: 1rem;
+}
